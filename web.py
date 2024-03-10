@@ -24,3 +24,4 @@ for index, todo in enumerate(todos):
 
 st.text_input(label="Add a new todo", placeholder="Enter a new todo", on_change=add_todo, key="new_todo")
 
+st.write("you're very retarded")
